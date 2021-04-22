@@ -1,0 +1,4 @@
+schedule
+pyTelegramBotApi
+requests
+bs4
